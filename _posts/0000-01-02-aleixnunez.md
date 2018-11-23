@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Text d'exemple: Canvis realitzats
 Use the left arrow to go back!
